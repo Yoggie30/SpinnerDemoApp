@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SpinnerDemoApp</string>
+    <string name="label_search">Search</string>
+    <string name="label_select_state">Select State</string>
+    <string name="label_select_city">Select City</string>
+    <string name="validation_select_State">Please Select City</string>
+    <string name="label_done">Done</string>
+    <string name="label_ok">OK</string>
+</resources>

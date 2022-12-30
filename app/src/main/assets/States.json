@@ -1,0 +1,132 @@
+[
+  {
+    "code": "01",
+    "description": "Andhra Pradesh",
+    "citiesList": [
+      {
+        "code": "01",
+        "description": "Visakhapatnam"
+      },
+      {
+        "code": "02",
+        "description": "Guntur"
+      },
+      {
+        "code": "03",
+        "description": "Kurnool"
+      },
+      {
+        "code": "04",
+        "description": "Tirupati"
+      },
+      {
+        "code": "05",
+        "description": "Nellore"
+      }
+    ]
+  },
+  {
+    "code": "02",
+    "description": "Maharashtra",
+    "citiesList": [
+      {
+        "code": "01",
+        "description": "Mumbai"
+      },
+      {
+        "code": "02",
+        "description": "Pune"
+      },
+      {
+        "code": "03",
+        "description": "Nashik"
+      },
+      {
+        "code": "04",
+        "description": "Nagpur"
+      },
+      {
+        "code": "05",
+        "description": "Kolhapur"
+      }
+    ]
+  },
+  {
+    "code": "03",
+    "description": "Punjab",
+    "citiesList": [
+      {
+        "code": "01",
+        "description": "Amritsar"
+      },
+      {
+        "code": "02",
+        "description": "Ludhiana"
+      },
+      {
+        "code": "03",
+        "description": "Jalandhar"
+      },
+      {
+        "code": "04",
+        "description": "Patiala"
+      },
+      {
+        "code": "05",
+        "description": "Bathinda"
+      }
+    ]
+  },
+  {
+    "code": "04",
+    "description": "Bihar",
+    "citiesList": [
+      {
+        "code": "01",
+        "description": "Patna"
+      },
+      {
+        "code": "02",
+        "description": "Gaya"
+      },
+      {
+        "code": "03",
+        "description": "Muzaffarpur"
+      },
+      {
+        "code": "04",
+        "description": "Nalanda"
+      },
+      {
+        "code": "05",
+        "description": "Darbhanga"
+      }
+    ]
+  },
+  {
+    "code": "05",
+    "description": "Gujrat",
+    "citiesList": [
+      {
+        "code": "01",
+        "description": "Ahmedabad"
+      },
+      {
+        "code": "02",
+        "description": "Surat"
+      },
+      {
+        "code": "03",
+        "description": "Rajkot"
+      },
+      {
+        "code": "04",
+        "description": "Vadodara"
+      },
+      {
+        "code": "05",
+        "description": "Jamnagar"
+      }
+    ]
+  }
+]
